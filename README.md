@@ -7,3 +7,5 @@ This is the first exercise in 522 class
 `git switch <name>`: This will switch to the created branch
 
 `git switch -c <name>`: Creates a new branch and switch to it
+
+- When you push the branch to github, it will automatically update the PR
