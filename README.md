@@ -9,3 +9,5 @@ This is the first exercise in 522 class
 `git switch -c <name>`: Creates a new branch and switch to it
 
 - When you push the branch to github, it will automatically update the PR
+
+Learning about introducing merge conflict and then rebasing
